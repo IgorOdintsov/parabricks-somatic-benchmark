@@ -1,0 +1,22 @@
+# Site-specific paths
+config.sh
+# Data and outputs stay out of the repository (embargoed until presentation)
+results/
+logs/
+analysis/tables/
+analysis/figures/
+*.bam
+*.bai
+*.cram
+*.vcf
+*.vcf.gz
+*.tbi
+*.fastq.gz
+*.bed
+*.tsv
+*.tsv.gz
+*.png
+*.pdf
+*.pptx
+.Rhistory
+__pycache__/
